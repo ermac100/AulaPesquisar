@@ -19,6 +19,7 @@ namespace AulaPesquisar.Controllers
 
         public IActionResult Index()
         {
+          
             return View();
         }
         
